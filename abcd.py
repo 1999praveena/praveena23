@@ -1,0 +1,5 @@
+am,p=(input().split())
+am=int(am)
+p=int(p)
+t=list(map(int,input().split()))
+print(t.count(p))
